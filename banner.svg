@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Shoaib Munir, PhD. Plant molecular biology">
+ <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1f4d2e"/><stop offset=".55" stop-color="#2f6b3f"/><stop offset="1" stop-color="#3f8a4f"/></linearGradient></defs>
+ <rect width="1200" height="300" fill="url(#g)"/>
+ <g fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="2">
+  <path d="M-20 250 C180 170 330 260 540 190 S930 120 1220 180"/>
+  <path d="M-20 280 C200 210 390 290 600 230 S960 170 1220 220"/>
+  <path d="M-20 215 C150 135 360 215 570 150 S900 85 1220 140"/>
+ </g>
+ <g fill="#fff" fill-opacity=".14"><circle cx="90" cy="60" r="6"/><circle cx="760" cy="40" r="8"/><circle cx="560" cy="265" r="5"/><circle cx="1010" cy="250" r="6"/></g>
+ <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" fill="#fff">
+  <text x="70" y="95" font-size="15" letter-spacing="3" opacity=".85">PLANT MOLECULAR BIOLOGY</text>
+  <text x="70" y="160" font-size="58" font-weight="700" letter-spacing="-1">Shoaib Munir, PhD</text>
+  <text x="70" y="205" font-size="21" opacity=".95">Associate Professor, Huazhong Agricultural University</text>
+  <text x="70" y="237" font-size="17" opacity=".85">Abiotic stress · Fruit quality · Alternative splicing · Calcium signalling</text>
+ </g>
+ <g transform="translate(900 40) scale(1)">
+  <circle cx="120" cy="120" r="108" fill="#fff" fill-opacity=".1"/>
+  <circle cx="120" cy="120" r="84" fill="none" stroke="#fff" stroke-opacity=".35" stroke-dasharray="3 7"/>
+  <circle cx="120" cy="136" r="58" fill="#d9482b"/>
+  <ellipse cx="100" cy="116" rx="14" ry="22" fill="#fff" fill-opacity=".22" transform="rotate(25 100 116)"/>
+  <path d="M120 80c-18-2-30-12-30-26 16 0 28 9 30 26zM120 80c18-2 30-12 30-26-16 0-28 9-30 26zM120 80c-4-14 0-26 10-34 4 14 0 26-10 34z" fill="#8fd19e"/>
+  <path d="M120 80v-10" stroke="#5aa86d" stroke-width="4" stroke-linecap="round"/>
+ </g>
+</svg>
