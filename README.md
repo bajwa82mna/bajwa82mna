@@ -78,7 +78,7 @@ Full, up-to-date list: [Google Scholar](https://scholar.google.com/citations?use
 ### 📚 [2026 Emerging Journals Database](https://github.com/bajwa82mna/journals2026)
 A searchable database of **22,281 emerging journals** with Q1–Q4 quartile rankings across **21 disciplines** (2026 edition). Search by journal name or ISSN, filter by quartile or category, and sort by rank. It runs entirely in the browser, no backend needed.
 
-**[Open the live database →](https://journal.campusinchina.com)** · [Source on GitHub](https://github.com/bajwa82mna/journals2026)
+**[Open the live database →](https://smbajwa.com/tools/emerging-journals-2026/)** · [Source on GitHub](https://github.com/bajwa82mna/journals2026)
 
 ## Service to the field
 
